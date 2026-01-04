@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# ContextCapture / large outputs
+*.las
+*.laz
+*.obj
+*.ply
+*.osgb
+*.ccc
+*.ccs
+*.ccr
+*.tmp
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
