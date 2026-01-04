@@ -84,3 +84,8 @@ D:\Projects\Mission_01\         <-- 项目根目录
 ## 日志
 脚本运行过程中，简要信息会显示在屏幕上。
 详细的带时间戳的日志会保存在脚本同级目录下的 `cc_sequential.log` 文件中。
+
+## 博客
+详细的使用说明，请参考博客文章：
+**[基于 ContextCapture SDK 的 Python 自动化三维建模](https://www.cnblogs.com/foury/p/19438102)**
+> 本仓库仅提供示例代码，完整背景说明、环境配置、参数解释请以博客为准。

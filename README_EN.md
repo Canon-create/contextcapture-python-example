@@ -84,3 +84,12 @@ D:\Projects\Mission_01\         <-- Project Root Directory
 ## Logs
 During execution, brief information is displayed on the screen.
 Detailed, timestamped logs are saved in the `cc_sequential.log` file in the same directory as the script.
+
+## Blog
+
+For detailed usage instructions, please refer to the blog post:
+
+**[Python-based Automated 3D Reconstruction Using the ContextCapture SDK](https://www.cnblogs.com/foury/p/19438102)**
+
+> This repository provides example code only.  
+> For full background information, environment setup, and parameter explanations, please refer to the blog.
